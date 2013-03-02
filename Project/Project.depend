@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1362217972 source:d:\projet_ephec\main.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
